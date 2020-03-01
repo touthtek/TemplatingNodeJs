@@ -1,0 +1,25 @@
+{
+  "name": "templatingnodejs",
+  "version": "1.0.0",
+  "description": "Simple templating using ejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/touthtek/TemplatingNodeJs.git"
+  },
+  "author": "Olu-johnson Oluwatosin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/touthtek/TemplatingNodeJs/issues"
+  },
+  "homepage": "https://github.com/touthtek/TemplatingNodeJs#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^3.0.1",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.2"
+  }
+}
